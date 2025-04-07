@@ -12,7 +12,7 @@ This repository provides a streamlined pipeline to automate the generation of Ga
 
 Use the Python script **`Gaussian_opt_input.py`** to generate the `.gjf` input file needed for geometry optimization.
 
-[**Insert link to Gaussian_opt_input.py here**]
+[Gaussian_opt_input.py]
 
 This script takes molecular coordinates and other job parameters to prepare a valid Gaussian input file formatted for geometry optimization.
 
