@@ -4,9 +4,9 @@ import time  # For delays in monitoring loop
 from scp import SCPClient  # For secure file transfers over SSH
 
 # --- User-defined variables ---
-remote_host = "10.103.146.71"
-username = "msc3"
-password = "newuser123"  # Consider using SSH keys instead for better security
+remote_host = ""
+username = ""
+password = ""  # Consider using SSH keys instead for better security
 local_dir = "D:\\Gaussian Scripts\\16new\\"
 remote_dir = "/home/msc3/opt_desgin/16new/"
 scratch_dir = "/scratch/users/msc3"
